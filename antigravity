@@ -4,3 +4,6 @@ git commit -m "Primeiro commit do projeto revisado"
 git branch -M main
 git remote add origin https://github.com/0000967790-arch/Site-top-truck.git
 git push -u origin main
+git add .
+git commit -m "feat: adiciona regra de super admin para o dono"
+git push
